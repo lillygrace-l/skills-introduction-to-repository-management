@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @lillygrace-l
+/src/backend/database.py      @lillygrace-l
+/src/backend/routers/auth.py  @lillygrace-l
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @lillygrace-l
